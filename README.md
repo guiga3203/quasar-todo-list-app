@@ -1,6 +1,7 @@
 # Awesome Todo (awesome-todo)
 
-A Quasar Framework app
+A Quasar Framework list todo app build for learn the basics for working with Vue.js and Quasar
+
 
 ## Install the dependencies
 ```bash
